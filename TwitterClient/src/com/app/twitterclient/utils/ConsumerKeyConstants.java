@@ -12,7 +12,7 @@ public class ConsumerKeyConstants {
 	public static final String PREF_KEY_OAUTH_SECRET = "oauth_token_secret";
 	public static final String PREF_KEY_TWITTER_LOGIN = "isTwitterLogedIn";
 
-	public static final String TWITTER_CALLBACK_URL = "oauth://t4jsample";
+	public static final String TWITTER_CALLBACK_URL = "http://oauth.gmodules.com/gadgets/oauthcallback";
 
 	// Twitter oauth urls
 	public static final String URL_TWITTER_AUTH = "auth_url";

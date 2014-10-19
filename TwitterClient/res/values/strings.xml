@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TwitterClient</string>
+    <string name="app_launcher_name">Twitter_CLient_App</string>
+    <string name="account_config_pref">Account_Config_Pref</string>
+    <string name="auth_token">Auth_token</string>
+    <string name="authorize_twitter_account">Authorize Twitter Account</string>
+    <string name="no_internet_connection">Please check your internet connectivity</string>
+
+</resources>

@@ -116,6 +116,23 @@ public class LinkedListImpl<E> {
 
 	}
 
+	public Node<E> reverseList(Node<E> node) {
+		if (node == null || node.next == null) {
+			return node;
+		}
+		Node<E> currentNode = node;
+		Node<E> previousNode = null;
+		Node<E> nextNode = null;
+
+		while (currentNode != null) {
+			nextNode = currentNode.next;
+			currentNode.next = previousNode;
+			previousNode = currentNode;
+			currentNode = nextNode;
+		}
+		return previousNode;
+	}
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 

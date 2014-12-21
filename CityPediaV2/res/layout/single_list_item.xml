@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/tab_indicator"
+    android:orientation="vertical" >
+
+    <!-- Name Label -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <com.app.citypediav2.CustomText
+            android:id="@+id/name_label"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:paddingLeft="5dp"
+            android:paddingRight="10dp"
+            android:paddingTop="10dip"
+            android:textColor="@android:color/background_dark"
+            android:textSize="@dimen/list_item_size"
+            android:textStyle="bold" />
+
+        <!-- Price Label -->
+
+        <com.app.citypediav2.CustomText
+            android:id="@+id/address_label"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:padding="5dp"
+            android:textColor="@android:color/background_dark"
+            android:textSize="@dimen/sub_item_size"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</FrameLayout>

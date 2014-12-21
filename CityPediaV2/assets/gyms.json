@@ -1,0 +1,857 @@
+[
+    {
+        "GS_ID": "1",
+        "GYM_NAME": "Suprama Gym & Spa",
+        "ADDRESS": "Sco-3013-14,Sector-22-D",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 4982256",
+        "PINCODE": null,
+        "LOCALITY": "Sector-22, Chandigarh"
+    },
+    {
+        "GS_ID": "10",
+        "GYM_NAME": "Body Zone Fitness & Spa",
+        "ADDRESS": "Sco-183-187, 2nd Flr, Sec-9c, Aboove British Library, Sector-9, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 4981757",
+        "PINCODE": null,
+        "LOCALITY": "Sector-9, Chandigarh"
+    },
+    {
+        "GS_ID": "11",
+        "GYM_NAME": "Planet Fitness",
+        "ADDRESS": "Sco 62-63, Madhya Marg, Sector-8, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 5076490",
+        "PINCODE": null,
+        "LOCALITY": "Sector-8, Chandigarh"
+    },
+    {
+        "GS_ID": "12",
+        "GYM_NAME": "Gold Gym",
+        "ADDRESS": "Sco-10,1st-2nd Floor, Sector-16, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "(0172) 3060061",
+        "PINCODE": null,
+        "LOCALITY": "Sector-16, Panchkula"
+    },
+    {
+        "GS_ID": "13",
+        "GYM_NAME": "Gold Gym",
+        "ADDRESS": "C-133, Phase VII, Industrial Area., Mohali SAS Nagar., Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 5032888",
+        "PINCODE": null,
+        "LOCALITY": "Industrial Area, Chandigarh"
+    },
+    {
+        "GS_ID": "14",
+        "GYM_NAME": "Burn Gym & Spa",
+        "ADDRESS": "Sco Number 7, Phase -5 ,Near Hotel Dawat, Mohali",
+        "CITY": "Mohali",
+        "CONTACT_NUMBER": "(0172) 5008989",
+        "PINCODE": null,
+        "LOCALITY": "Phase -5 , Mohali"
+    },
+    {
+        "GS_ID": "15",
+        "GYM_NAME": "Gold Gym",
+        "ADDRESS": null,
+        "CITY": "Mohali",
+        "CONTACT_NUMBER": "(0172) 5013444",
+        "PINCODE": null,
+        "LOCALITY": "Phase-8, Mohali"
+    },
+    {
+        "GS_ID": "16",
+        "GYM_NAME": "Burn Jym And Spa",
+        "ADDRESS": "Sco-113-114(Top Floor), Nr. Silvi Park, Phase-10, Mohali",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 5004122",
+        "PINCODE": null,
+        "LOCALITY": "Phase-10, Mohali"
+    },
+    {
+        "GS_ID": "17",
+        "GYM_NAME": "Cga Golf Range",
+        "ADDRESS": "Sector-6, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2742011",
+        "PINCODE": null,
+        "LOCALITY": "Sector-6, Chandigarh"
+    },
+    {
+        "GS_ID": "18",
+        "GYM_NAME": "Country Club India Ltd",
+        "ADDRESS": "Sco No 327,Ist Floor, Sector-40 D, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "9871119779",
+        "PINCODE": null,
+        "LOCALITY": "Sector-40, Chandigarh"
+    },
+    {
+        "GS_ID": "19",
+        "GYM_NAME": "Oceanic Fitness Centre",
+        "ADDRESS": "Sco- 32 & 33, 4th Floor, Phase- 3b2, Mohali Sas Nagar, Mohali",
+        "CITY": "Mohali",
+        "CONTACT_NUMBER": "9814148008",
+        "PINCODE": null,
+        "LOCALITY": "Phase- 3b2, Mohali"
+    },
+    {
+        "GS_ID": "2",
+        "GYM_NAME": "Suprama Gym & Spa",
+        "ADDRESS": "Sco-321,Sector 38-D,Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 4982256",
+        "PINCODE": null,
+        "LOCALITY": "Sector 38,Chandigarh"
+    },
+    {
+        "GS_ID": "20",
+        "GYM_NAME": "Exotica A Family Health Club",
+        "ADDRESS": "Sco No- 1, Top Flr, Sec- 16, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "(0172) 3251922",
+        "PINCODE": null,
+        "LOCALITY": "Sec- 16, Panchkula"
+    },
+    {
+        "GS_ID": "21",
+        "GYM_NAME": "Country club India ltd",
+        "ADDRESS": "Sco-44/45, Above HDFC BANK, Sec-9D, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": null,
+        "PINCODE": null,
+        "LOCALITY": "Sector-9, Chandigarh"
+    },
+    {
+        "GS_ID": "22",
+        "GYM_NAME": "Gold gym",
+        "ADDRESS": "Shop no. 9-10 FF Dhakoli, M.S Enclave, Brar complex, Zirakpur",
+        "CITY": "Zirakpur",
+        "CONTACT_NUMBER": "9780804477",
+        "PINCODE": null,
+        "LOCALITY": "Zirakpur"
+    },
+    {
+        "GS_ID": "23",
+        "GYM_NAME": "Life Line",
+        "ADDRESS": "Sco 125-126-127, Opposite Citco Petrol Pump, 17 B, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 5079444",
+        "PINCODE": null,
+        "LOCALITY": "Sector-17, Chandigarh"
+    },
+    {
+        "GS_ID": "24",
+        "GYM_NAME": "Gym Khana Club",
+        "ADDRESS": "Near Devi LAL Stadium,Sector-3, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "9780601451",
+        "PINCODE": null,
+        "LOCALITY": "Sector-3, Panchkula"
+    },
+    {
+        "GS_ID": "25",
+        "GYM_NAME": "Dynasport Fitness Equipment",
+        "ADDRESS": null,
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 5194627",
+        "PINCODE": null,
+        "LOCALITY": null
+    },
+    {
+        "GS_ID": "26",
+        "GYM_NAME": "Body Craft Gym & Spa",
+        "ADDRESS": "Sco 407, 2nd Floor, Adjacent To Pizza Hut, Sector 20, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": null,
+        "PINCODE": null,
+        "LOCALITY": "Sector 20, Panchkula"
+    },
+    {
+        "GS_ID": "27",
+        "GYM_NAME": "Fx Gym",
+        "ADDRESS": "Sco 254 First floor, Near canara Bank, Sector-44 C, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 4604826",
+        "PINCODE": null,
+        "LOCALITY": "Sector-44, Chandigarh"
+    },
+    {
+        "GS_ID": "28",
+        "GYM_NAME": "Air Fitness & Spa",
+        "ADDRESS": "Sco- 134 To 36, Sec- 8 C, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 4005999",
+        "PINCODE": null,
+        "LOCALITY": "Sector- 8, Chandigarh"
+    },
+    {
+        "GS_ID": "29",
+        "GYM_NAME": "Apple Gym & Spa",
+        "ADDRESS": "Sco-46-47, Sector-9d, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": null,
+        "PINCODE": null,
+        "LOCALITY": "Sector-9, Chandigarh"
+    },
+    {
+        "GS_ID": "3",
+        "GYM_NAME": "Suprama Gym & Spa",
+        "ADDRESS": "Sco-26-27,2nd Floor,Zirakpur(Royal Estate)",
+        "CITY": "Zirakpur",
+        "CONTACT_NUMBER": "(0172) 4982256",
+        "PINCODE": null,
+        "LOCALITY": "Zirakpur"
+    },
+    {
+        "GS_ID": "30",
+        "GYM_NAME": "Punjab Cricket Club",
+        "ADDRESS": "Phase-9, Sector 63, Mohali Sas Nagar, Mohali",
+        "CITY": "Mohali",
+        "CONTACT_NUMBER": "(0172) 2232300",
+        "PINCODE": null,
+        "LOCALITY": "Sector 63, Mohali"
+    },
+    {
+        "GS_ID": "31",
+        "GYM_NAME": "Schwarzkopf",
+        "ADDRESS": "5, Madanpura Chowk, Mohali Sas Nagar, Mohali",
+        "CITY": "Mohali",
+        "CONTACT_NUMBER": "(0172) 2225691",
+        "PINCODE": null,
+        "LOCALITY": "Mohali"
+    },
+    {
+        "GS_ID": "32",
+        "GYM_NAME": "Club Nirvana",
+        "ADDRESS": "SCO-236-237Second Floor, Sector 20, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "(0172) 2520020",
+        "PINCODE": null,
+        "LOCALITY": "Sector 20, Panchkula"
+    },
+    {
+        "GS_ID": "33",
+        "GYM_NAME": "OXY Gym",
+        "ADDRESS": "Hotel Mountview, Sec-10, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 4670641",
+        "PINCODE": null,
+        "LOCALITY": "Sector-10, Chandigarh"
+    },
+    {
+        "GS_ID": "34",
+        "GYM_NAME": "Hammer Gym & Spa",
+        "ADDRESS": null,
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "8283058866",
+        "PINCODE": null,
+        "LOCALITY": null
+    },
+    {
+        "GS_ID": "35",
+        "GYM_NAME": "Fitness Lounge",
+        "ADDRESS": "Sco 11, Sec - 16, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "(0172) 50332200",
+        "PINCODE": null,
+        "LOCALITY": "Sector - 16, Panchkula"
+    },
+    {
+        "GS_ID": "36",
+        "GYM_NAME": "Oxizone fitness & spa",
+        "ADDRESS": "Sco 26-27, Near royal estate, Above IDBI Bank, Zirakpur",
+        "CITY": "Zirakpur",
+        "CONTACT_NUMBER": "9878006816",
+        "PINCODE": null,
+        "LOCALITY": "Zirakpur"
+    },
+    {
+        "GS_ID": "37",
+        "GYM_NAME": "Energizer Fitness Lounge",
+        "ADDRESS": "Sco-156 - 157, Basement, Sector-34 A, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": null,
+        "PINCODE": null,
+        "LOCALITY": "Sector-34, Chandigarh"
+    },
+    {
+        "GS_ID": "38",
+        "GYM_NAME": "Regal Health Club",
+        "ADDRESS": "Sco-318, Sco-318.sec-40d, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 5002947",
+        "PINCODE": null,
+        "LOCALITY": "Sector-40, Chandigarh"
+    },
+    {
+        "GS_ID": "39",
+        "GYM_NAME": "Regal Health Club",
+        "ADDRESS": "Sector-46 C Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 5002947",
+        "PINCODE": null,
+        "LOCALITY": "Sector-46, Chandigarh"
+    },
+    {
+        "GS_ID": "4",
+        "GYM_NAME": "Rajeev Enterprises Gym And Swimming Pool Academy",
+        "ADDRESS": null,
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 4983683",
+        "PINCODE": null,
+        "LOCALITY": null
+    },
+    {
+        "GS_ID": "40",
+        "GYM_NAME": "Flexity",
+        "ADDRESS": "Sco-4, Sector-26, Madhya Marg., Near Police Chowki, Sector-26, CHANDIGARH",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 4659669",
+        "PINCODE": null,
+        "LOCALITY": "Sector-26, CHANDIGARH"
+    },
+    {
+        "GS_ID": "41",
+        "GYM_NAME": "Micky's Prime Bodies",
+        "ADDRESS": "Sco-364,Top Floor, Above Anjali Departmental Store, Sector-32 D, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 5034036",
+        "PINCODE": null,
+        "LOCALITY": "Sector-32, Chandigarh"
+    },
+    {
+        "GS_ID": "42",
+        "GYM_NAME": "BLITZ FITNESS GYM",
+        "ADDRESS": "Sco-59 Mdc Sector 5, Swastik Vihar, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "(0172) 2555259",
+        "PINCODE": null,
+        "LOCALITY": "Sector 5, Panchkula"
+    },
+    {
+        "GS_ID": "43",
+        "GYM_NAME": "Bodyscapes",
+        "ADDRESS": null,
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2645820",
+        "PINCODE": null,
+        "LOCALITY": null
+    },
+    {
+        "GS_ID": "44",
+        "GYM_NAME": "Robust Revolution",
+        "ADDRESS": "Scf-34-35,1st Flr, Indl Area,PH-7, Mohali",
+        "CITY": "Mohali",
+        "CONTACT_NUMBER": "(0172) 2236786",
+        "PINCODE": null,
+        "LOCALITY": "Phase-7, Mohali"
+    },
+    {
+        "GS_ID": "45",
+        "GYM_NAME": "Club fitness",
+        "ADDRESS": "Sco 5&6, Near railway crossing, Dhakoli, Zirakpur",
+        "CITY": "Zirakpur",
+        "CONTACT_NUMBER": null,
+        "PINCODE": null,
+        "LOCALITY": "Zirakpur"
+    },
+    {
+        "GS_ID": "46",
+        "GYM_NAME": "Urban Gym",
+        "ADDRESS": "Sco- 148-149, Basement,Sector- 34 A, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "9779093870",
+        "PINCODE": null,
+        "LOCALITY": "Sector- 34, Chandigarh"
+    },
+    {
+        "GS_ID": "47",
+        "GYM_NAME": "Anytime Fitness",
+        "ADDRESS": "P No- 28, PH- 1, Indl Area, Industrial Area, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2637043",
+        "PINCODE": null,
+        "LOCALITY": "Industrial Area, Chandigarh"
+    },
+    {
+        "GS_ID": "48",
+        "GYM_NAME": "Reflex gym",
+        "ADDRESS": "Sco 33, Opposite Taress Garden, Sector-33 D, CHANDIGARH",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": null,
+        "PINCODE": null,
+        "LOCALITY": "Sector-33, CHANDIGARH"
+    },
+    {
+        "GS_ID": "49",
+        "GYM_NAME": "Health is wealth fitness point",
+        "ADDRESS": null,
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "9988800355",
+        "PINCODE": null,
+        "LOCALITY": "Manimajra"
+    },
+    {
+        "GS_ID": "5",
+        "GYM_NAME": "BURN GYM & SPA",
+        "ADDRESS": "SCO - 58-59, Sector 11, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "(0172) 5008802",
+        "PINCODE": null,
+        "LOCALITY": "Sector 11, Panchkula"
+    },
+    {
+        "GS_ID": "50",
+        "GYM_NAME": "Hammer hut gym",
+        "ADDRESS": "SCO 20 2nd floor, Kalgidhar enclave, Kalka panchkula highway, Zirakpur",
+        "CITY": "Zirakpur",
+        "CONTACT_NUMBER": "9781740003",
+        "PINCODE": null,
+        "LOCALITY": "Zirakpur"
+    },
+    {
+        "GS_ID": "51",
+        "GYM_NAME": "RAMA HEALTH CARE LTD",
+        "ADDRESS": "Sco 356-357, Sector-34 A, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2616888",
+        "PINCODE": null,
+        "LOCALITY": "Sector-34, Chandigarh"
+    },
+    {
+        "GS_ID": "52",
+        "GYM_NAME": "Figure n physique",
+        "ADDRESS": "Sco-265, 2nd Flr, Sec-16, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "9855450210",
+        "PINCODE": null,
+        "LOCALITY": "Sector-16, Panchkula"
+    },
+    {
+        "GS_ID": "53",
+        "GYM_NAME": "Fitness Paradise Health Care Centre",
+        "ADDRESS": "Sco-197,1st Flr, Sec-16, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "(0172) 3269519",
+        "PINCODE": null,
+        "LOCALITY": "Sector-16, Panchkula"
+    },
+    {
+        "GS_ID": "54",
+        "GYM_NAME": "Oceanic Fitness Centre",
+        "ADDRESS": "33, Phase-3b2, Mohali Sas Nagar",
+        "CITY": "Mohali",
+        "CONTACT_NUMBER": "(0172) 2228262",
+        "PINCODE": null,
+        "LOCALITY": "Mohali"
+    },
+    {
+        "GS_ID": "55",
+        "GYM_NAME": "Energizer Eight Fitness Centre",
+        "ADDRESS": "Sco-395, Sec-8, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "(0172) 4663879",
+        "PINCODE": null,
+        "LOCALITY": "Sector-8, Panchkula"
+    },
+    {
+        "GS_ID": "56",
+        "GYM_NAME": "ENERGY HOUSE GYM",
+        "ADDRESS": "Scf -82 2nd -3rd floor, Nr. Khalsa resturant, Phase -5, Mohali Sas Nagar, Mohali",
+        "CITY": "Mohali",
+        "CONTACT_NUMBER": "9888227770",
+        "PINCODE": null,
+        "LOCALITY": "Phase -5, Mohali"
+    },
+    {
+        "GS_ID": "57",
+        "GYM_NAME": "Body Tone Health Club",
+        "ADDRESS": "Sco -20,Swastik Vihar, Nr Mansadevi, Sector-17, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "9814274678",
+        "PINCODE": null,
+        "LOCALITY": "Sector-17, Chandigarh"
+    },
+    {
+        "GS_ID": "58",
+        "GYM_NAME": "Femina",
+        "ADDRESS": null,
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2609030",
+        "PINCODE": null,
+        "LOCALITY": null
+    },
+    {
+        "GS_ID": "59",
+        "GYM_NAME": "Cuts & Curves",
+        "ADDRESS": "Sco-90, Near 38c Park, Sector-38 C, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "9872650607",
+        "PINCODE": null,
+        "LOCALITY": "Sector-38, Chandigarh"
+    },
+    {
+        "GS_ID": "6",
+        "GYM_NAME": "Urban Gym",
+        "ADDRESS": "Sco-148-149 ,(Basement), Sector 34-A, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 4981808",
+        "PINCODE": null,
+        "LOCALITY": "Sector 34, Chandigarh"
+    },
+    {
+        "GS_ID": "60",
+        "GYM_NAME": "Club Shape Fitness Centre",
+        "ADDRESS": "Sco-383, 2nd Flr, Sec-20, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "9888882838",
+        "PINCODE": null,
+        "LOCALITY": "Sector-20, Panchkula"
+    },
+    {
+        "GS_ID": "61",
+        "GYM_NAME": "Fitness Zone",
+        "ADDRESS": "SCO 121-122 2ND Floor, , Phase 3b2, Mohali",
+        "CITY": "Mohali",
+        "CONTACT_NUMBER": null,
+        "PINCODE": null,
+        "LOCALITY": "Phase 3B2, Mohali"
+    },
+    {
+        "GS_ID": "62",
+        "GYM_NAME": "Power Zone Gymnasium",
+        "ADDRESS": null,
+        "CITY": "Mohali",
+        "CONTACT_NUMBER": "(0172) 2264877",
+        "PINCODE": null,
+        "LOCALITY": "Phase-7,Mohali"
+    },
+    {
+        "GS_ID": "63",
+        "GYM_NAME": "New Friends Centre",
+        "ADDRESS": null,
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": null,
+        "PINCODE": null,
+        "LOCALITY": null
+    },
+    {
+        "GS_ID": "64",
+        "GYM_NAME": "Maxwell Healthcare Limited",
+        "ADDRESS": "Sco-356-57, Healthcare Mall-34, Orbit Gym, Sector-34 A, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": null,
+        "PINCODE": null,
+        "LOCALITY": "Sector-34, Chandigarh"
+    },
+    {
+        "GS_ID": "65",
+        "GYM_NAME": "Body Blast Gym",
+        "ADDRESS": "Sector-26, CHANDIGARH",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 3043218",
+        "PINCODE": null,
+        "LOCALITY": "Sector-26, CHANDIGARH"
+    },
+    {
+        "GS_ID": "66",
+        "GYM_NAME": "Sip Abacus & Brain Gym",
+        "ADDRESS": "Sector-38 C, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "9888673023",
+        "PINCODE": null,
+        "LOCALITY": "Sector-38, Chandigarh"
+    },
+    {
+        "GS_ID": "67",
+        "GYM_NAME": "Regal",
+        "ADDRESS": "Sco-81, Sector-46 C, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 5002947",
+        "PINCODE": null,
+        "LOCALITY": "Sector-46, Chandigarh"
+    },
+    {
+        "GS_ID": "68",
+        "GYM_NAME": "Star Sports Industries",
+        "ADDRESS": "790, Industrial Area Phase II, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2639888",
+        "PINCODE": null,
+        "LOCALITY": "Industrial Area Phase II, Chandigarh"
+    },
+    {
+        "GS_ID": "69",
+        "GYM_NAME": "Gurbilas Health Club",
+        "ADDRESS": "Sco 669 ,Top Floor, Near PNB Bank, Phase-1, Mohali Sas Nagar, Mohali",
+        "CITY": "Mohali",
+        "CONTACT_NUMBER": null,
+        "PINCODE": null,
+        "LOCALITY": "Phase-1, Mohali"
+    },
+    {
+        "GS_ID": "7",
+        "GYM_NAME": "gymkhana club",
+        "ADDRESS": "Sec-1 Mdc, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "(0172) 4983927",
+        "PINCODE": null,
+        "LOCALITY": "Sec-1 , Panchkula"
+    },
+    {
+        "GS_ID": "70",
+        "GYM_NAME": "Prime Bodies",
+        "ADDRESS": "Sco-248, Level-II, Sec-20, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "9814061306",
+        "PINCODE": null,
+        "LOCALITY": "Sector-20, Panchkula"
+    },
+    {
+        "GS_ID": "71",
+        "GYM_NAME": "Finess Point",
+        "ADDRESS": "Sco -45 , Top Flr, Near Doaba Sweets Sec.-21c, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 4676272",
+        "PINCODE": null,
+        "LOCALITY": "Sector-21, Chandigarh"
+    },
+    {
+        "GS_ID": "72",
+        "GYM_NAME": "Carlos Gyms Pvt Ltd",
+        "ADDRESS": "Sco-50-51, Sector-34 A, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 3919296",
+        "PINCODE": null,
+        "LOCALITY": "Sector-34, Chandigarh"
+    },
+    {
+        "GS_ID": "73",
+        "GYM_NAME": "Valentine Fitness Hi Tech Gym",
+        "ADDRESS": "Sco-38-39, Sector-17 A, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "9878390567",
+        "PINCODE": null,
+        "LOCALITY": "Sector-17, Chandigarh"
+    },
+    {
+        "GS_ID": "74",
+        "GYM_NAME": "Hari S Power & Fitness",
+        "ADDRESS": "Sco-42, 2nd Flr, Nr Glass Place, Sector-7 C, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": null,
+        "PINCODE": null,
+        "LOCALITY": "Sector-7, Chandigarh"
+    },
+    {
+        "GS_ID": "75",
+        "GYM_NAME": "Prime bodies Corp.",
+        "ADDRESS": "Sco 365 Top Floor, Near Canara Bamk, Sector-32 D, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": null,
+        "PINCODE": null,
+        "LOCALITY": "Sector-32, Chandigarh"
+    },
+    {
+        "GS_ID": "76",
+        "GYM_NAME": "Sports fit",
+        "ADDRESS": "Sco 42-43, Near PNB, Sector-9 D, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": null,
+        "PINCODE": null,
+        "LOCALITY": "Sector-9, Chandigarh"
+    },
+    {
+        "GS_ID": "77",
+        "GYM_NAME": "Indian Sports",
+        "ADDRESS": null,
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 5018858",
+        "PINCODE": null,
+        "LOCALITY": null
+    },
+    {
+        "GS_ID": "78",
+        "GYM_NAME": "Vertical Body Fitness",
+        "ADDRESS": "Sco-80-81,Basement, Madhya Mg,Next To HDFC Bank, Sector-8 C, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "9878333999",
+        "PINCODE": null,
+        "LOCALITY": "Sector-8, Chandigarh"
+    },
+    {
+        "GS_ID": "79",
+        "GYM_NAME": "Eves Slimming Centre",
+        "ADDRESS": "SCO-220,2ND Floor, Near SBI, Sector-37 C, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2699258",
+        "PINCODE": null,
+        "LOCALITY": "Sector-37, Chandigarh"
+    },
+    {
+        "GS_ID": "8",
+        "GYM_NAME": "Talwalkars Gym",
+        "ADDRESS": "Sco- 326, Sector-9, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "(0172) 4983065",
+        "PINCODE": null,
+        "LOCALITY": "Sector-9, Panchkula"
+    },
+    {
+        "GS_ID": "80",
+        "GYM_NAME": "Meharban Fitness Centre",
+        "ADDRESS": "Sco- 372, Basement, Near Coal Depot, Sector-37 D, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 4983592",
+        "PINCODE": null,
+        "LOCALITY": "Sector-37, Chandigarh"
+    },
+    {
+        "GS_ID": "81",
+        "GYM_NAME": "Hammer Gym",
+        "ADDRESS": "Sco No-396, Near Sindhi Sweet, Sector-37D, CHANDIGARH",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 4608866",
+        "PINCODE": null,
+        "LOCALITY": "Sector-37, CHANDIGARH"
+    },
+    {
+        "GS_ID": "82",
+        "GYM_NAME": "Dhiman Health Club",
+        "ADDRESS": "Nr Dhiman Aatta Chakki, Hallo Majra, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "9872777481",
+        "PINCODE": null,
+        "LOCALITY": "Hallo Majra, Chandigarh"
+    },
+    {
+        "GS_ID": "83",
+        "GYM_NAME": "DD Emerald Vishwa Fitness Center",
+        "ADDRESS": "Sco-8, Sector-16d, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "9876114488",
+        "PINCODE": null,
+        "LOCALITY": "Sector-16, Chandigarh"
+    },
+    {
+        "GS_ID": "84",
+        "GYM_NAME": "Body exchange fitness centre",
+        "ADDRESS": "Sco-67, Near Gurudwara, Sector-38, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "9815103636",
+        "PINCODE": null,
+        "LOCALITY": "Sector-38, Chandigarh"
+    },
+    {
+        "GS_ID": "85",
+        "GYM_NAME": "Body Temple Centre",
+        "ADDRESS": "Sector-12, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "9815543669",
+        "PINCODE": null,
+        "LOCALITY": "Sector-12, Chandigarh"
+    },
+    {
+        "GS_ID": "86",
+        "GYM_NAME": "Fitness point",
+        "ADDRESS": "Shop no 373, Mouli complex, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "9988408283",
+        "PINCODE": null,
+        "LOCALITY": "Mouli complex, Chandigarh"
+    },
+    {
+        "GS_ID": "87",
+        "GYM_NAME": "Hunk's mania fitness hub",
+        "ADDRESS": "Sco 88 Top Floor, Near Gobind Sweets, Phase 7, Mohali",
+        "CITY": "Mohali",
+        "CONTACT_NUMBER": "7508956895",
+        "PINCODE": null,
+        "LOCALITY": "Phase 7, Mohali"
+    },
+    {
+        "GS_ID": "88",
+        "GYM_NAME": "Fitness World",
+        "ADDRESS": "Sco-1, 2nd Floor, Near IVY Hospital, Mohali SAS Nagar, Mohali",
+        "CITY": "Mohali",
+        "CONTACT_NUMBER": "(0172) 5004188",
+        "PINCODE": null,
+        "LOCALITY": "Mohali"
+    },
+    {
+        "GS_ID": "89",
+        "GYM_NAME": "Slim & Shape Healthcare PVT LTD",
+        "ADDRESS": "808, Ff, Nac, Kalka Rd, Mani Majra, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2733480",
+        "PINCODE": null,
+        "LOCALITY": "Manimajra"
+    },
+    {
+        "GS_ID": "9",
+        "GYM_NAME": "Burn Gym & Spa",
+        "ADDRESS": "Sco 134-135, Near Sindhi Sweets, Madhya Marg, Sector-8 C, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": null,
+        "PINCODE": null,
+        "LOCALITY": "Sector-8, Chandigarh"
+    },
+    {
+        "GS_ID": "90",
+        "GYM_NAME": "Body Booster",
+        "ADDRESS": "Mouli Road, Sohana, Mohali",
+        "CITY": "Mohali",
+        "CONTACT_NUMBER": "9256408070",
+        "PINCODE": null,
+        "LOCALITY": "Mohali"
+    },
+    {
+        "GS_ID": "91",
+        "GYM_NAME": "Infiniti Gym",
+        "ADDRESS": "SCO-12 Level-1 Phase-9 Ind. Area Mohali",
+        "CITY": "Mohali",
+        "CONTACT_NUMBER": "(0172) 4603114",
+        "PINCODE": null,
+        "LOCALITY": "Phase-9, Mohali"
+    },
+    {
+        "GS_ID": "92",
+        "GYM_NAME": "Body Fitness Gym",
+        "ADDRESS": "Sco 11, Near Shiv Mandir, Peer Baba Road, Baltana, Zirakpur",
+        "CITY": "Zirakpur",
+        "CONTACT_NUMBER": "NA",
+        "PINCODE": null,
+        "LOCALITY": "Zirakpur"
+    },
+    {
+        "GS_ID": "93",
+        "GYM_NAME": "Energy Fitness Gym",
+        "ADDRESS": "2nd Floor,Bank Of Maharashtra Building, Patiala Road, Zirakpur",
+        "CITY": "Zirakpur",
+        "CONTACT_NUMBER": "9417108908",
+        "PINCODE": null,
+        "LOCALITY": "Zirakpur"
+    },
+    {
+        "GS_ID": "94",
+        "GYM_NAME": "Make over gym",
+        "ADDRESS": "SCO 5 second floor, Opp. N.K sharma office, Ambala highway, Zirakpur",
+        "CITY": "Zirakpur",
+        "CONTACT_NUMBER": "9876793009",
+        "PINCODE": null,
+        "LOCALITY": "Zirakpur"
+    },
+    {
+        "GS_ID": "95",
+        "GYM_NAME": "CURVES WOMEN GYM",
+        "ADDRESS": "#1814, Nr. Pal dairy, Preet nagar , randawa road, Kharar, Mohali",
+        "CITY": "Mohali",
+        "CONTACT_NUMBER": "8872509999",
+        "PINCODE": null,
+        "LOCALITY": "Mohali"
+    }
+]

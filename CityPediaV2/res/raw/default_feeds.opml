@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.1">
+<body>
+	<outline title="News" >
+		<outline title="Chandigarh News TOI" type="rss" xmlUrl="http://timesofindia.feedsportal.com/c/33039/f/533984/index.rss" retrieveFullText='true'/>
+		
+	</outline>
+</body>
+</opml>

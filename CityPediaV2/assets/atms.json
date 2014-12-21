@@ -1,0 +1,1592 @@
+[
+    {
+        "ATM_ID": "ATM_1",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No.34, Sector- 7, Near Govind Sweet, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_10",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sector -17B, Madhya Marg, , Chandigarh - 160019"
+    },
+    {
+        "ATM_ID": "ATM_100",
+        "ATM_NAME": "ICICI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Gilco Complex, Chandigarh - 140301"
+    },
+    {
+        "ATM_ID": "ATM_101",
+        "ATM_NAME": "ICICI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Indra Market, Near Lakkar Mandi Chowk, Chandigarh - 140401"
+    },
+    {
+        "ATM_ID": "ATM_102",
+        "ATM_NAME": "ICICI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "A-39, Phase Viii, Industrial Area, , Chandigarh - 160059"
+    },
+    {
+        "ATM_ID": "ATM_103",
+        "ATM_NAME": "ICICI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "It Park, Infosys, Chandigarh - 160017"
+    },
+    {
+        "ATM_ID": "ATM_104",
+        "ATM_NAME": "ICICI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Shop No.81, Main Market, Modern Housing Complex, Chandigarh - 160101"
+    },
+    {
+        "ATM_ID": "ATM_105",
+        "ATM_NAME": "ICICI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 36, Pocket 1, Mani Majra,Chandigarh - 160002"
+    },
+    {
+        "ATM_ID": "ATM_106",
+        "ATM_NAME": "ICICI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth 330-6, Phase 5, Chandarh - 160011"
+    },
+    {
+        "ATM_ID": "ATM_107",
+        "ATM_NAME": "ICICI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Near Reebok Store, Ambala Chandigarh Highway, Chandigarh - 160034"
+    },
+    {
+        "ATM_ID": "ATM_108",
+        "ATM_NAME": "ICICI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Nr. Oberai Banquet Hall Chandigarh, New Market 45 ,Sector 45 B, Chandigarh - 160047"
+    },
+    {
+        "ATM_ID": "ATM_109",
+        "ATM_NAME": "ICICI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Plot No 4 And 5, Lekha Bhawan, Sector 33 - B, Chandigarh - 160047"
+    },
+    {
+        "ATM_ID": "ATM_11",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sector 8-C,S.C.O. 41-42, Madhya Marg,Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_110",
+        "ATM_NAME": "ICICI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "177-D, Industrial Area, Phase I,Chandigarh - 160002"
+    },
+    {
+        "ATM_ID": "ATM_111",
+        "ATM_NAME": "IDBI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 55-56-57, Madhya Marg, Sector 8-C, Chandigarh - 160018"
+    },
+    {
+        "ATM_ID": "ATM_112",
+        "ATM_NAME": "IDBI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sector 17B, Bank Square, Sco 72-73, Chandigarh - 160017"
+    },
+    {
+        "ATM_ID": "ATM_113",
+        "ATM_NAME": "IDBI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sector - 43 - B, Chandigarh Judicial Academy,Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_114",
+        "ATM_NAME": "IDBI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No-381, Sector - 32 C & D, Chandigarh - 160030"
+    },
+    {
+        "ATM_ID": "ATM_115",
+        "ATM_NAME": "IDBI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No 34, Sec-22 D, Chandigarh - 160022"
+    },
+    {
+        "ATM_ID": "ATM_116",
+        "ATM_NAME": "IDBI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sector-37-C, Booth No.116, Chandigarh - 160036"
+    },
+    {
+        "ATM_ID": "ATM_117",
+        "ATM_NAME": "IDBI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sector 24-C,Booth No 11, Chandigarh - 160023"
+    },
+    {
+        "ATM_ID": "ATM_118",
+        "ATM_NAME": "IDBI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No 49, Sector 44-C, Chandigarh - 160047"
+    },
+    {
+        "ATM_ID": "ATM_119",
+        "ATM_NAME": "IDBI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No. 3, Sector 7- C, Chandigarh - 160007"
+    },
+    {
+        "ATM_ID": "ATM_12",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco No. 916, Pocket No.6, Shimla Road, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_120",
+        "ATM_NAME": "Indian Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Madhya Marg, Sco 38-39, Sector 7 C, Chandigarh - 160019"
+    },
+    {
+        "ATM_ID": "ATM_121",
+        "ATM_NAME": "Indian Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 72-73, Sector - 40 - C , Chandigarh - 160036"
+    },
+    {
+        "ATM_ID": "ATM_122",
+        "ATM_NAME": "Indus Ind Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "S.C.O. No. 53 - 54, Sector 8C,Madhya Marg, Chandigarh - 160018"
+    },
+    {
+        "ATM_ID": "ATM_123",
+        "ATM_NAME": "Indus Ind Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Shop No. 46, Manimajra, Modern Hsg Complex, Chandigarh - 160101"
+    },
+    {
+        "ATM_ID": "ATM_124",
+        "ATM_NAME": "Indus Ind Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sector 49 B, Mann Filling Station, Chandigarh - 160047"
+    },
+    {
+        "ATM_ID": "ATM_125",
+        "ATM_NAME": "Indus Ind Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No 1129, A Sector 22-B, Chandigarh - 160101"
+    },
+    {
+        "ATM_ID": "ATM_126",
+        "ATM_NAME": "Indus Ind Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "469-A, Sector 35C, Chandigarh - 160035"
+    },
+    {
+        "ATM_ID": "ATM_127",
+        "ATM_NAME": "Oriental Bank Of Commerce",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Bank Square, Sector-17B, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_128",
+        "ATM_NAME": "Oriental Bank Of Commerce",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Administrative Office, Ctu, Industrial Area, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_129",
+        "ATM_NAME": "Oriental Bank Of Commerce",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No.21, Sector-21C, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_13",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Modern Complex,Booth No. 79, Manimajra, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_130",
+        "ATM_NAME": "Oriental Bank Of Commerce",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "S.C.O. - 48,Sector 26, Madhya Marg, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_131",
+        "ATM_NAME": "Oriental Bank Of Commerce",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "First Floor, Hotel Shivalik View, Sector 17 - E, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_132",
+        "ATM_NAME": "Oriental Bank Of Commerce",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No. 272, Sec-37C, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_133",
+        "ATM_NAME": "Oriental Bank Of Commerce",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco-54, Sec-47C, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_134",
+        "ATM_NAME": "Oriental Bank Of Commerce",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 47/48, Sector 8C,Madhya Marg, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_135",
+        "ATM_NAME": "Oriental Bank Of Commerce",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No.18, Sector-49A, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_136",
+        "ATM_NAME": "Oriental Bank Of Commerce",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Main Gate New Opd, Pgi, Sector 12, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_137",
+        "ATM_NAME": "Oriental Bank Of Commerce",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Plot No. 11, Industrial Area Phase Ii , , Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_138",
+        "ATM_NAME": "Oriental Bank Of Commerce",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco-21 ,Sector-33, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_139",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Bo Dav School Sec 8, Chandigarh - 160008"
+    },
+    {
+        "ATM_ID": "ATM_14",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No. 712, Manimajra, Chandigarh - 160101"
+    },
+    {
+        "ATM_ID": "ATM_140",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Bo Dhanas, Chandigarh - 160014"
+    },
+    {
+        "ATM_ID": "ATM_141",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth 166 , Sec 35, Chandigarh - 160023"
+    },
+    {
+        "ATM_ID": "ATM_142",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth 239, Sec 38, Chandigarh - 160036"
+    },
+    {
+        "ATM_ID": "ATM_143",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth 4, Sec 47 C, Chandigarh - 160002"
+    },
+    {
+        "ATM_ID": "ATM_144",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No. 137, Sector 41D, Chandigarh - 160055"
+    },
+    {
+        "ATM_ID": "ATM_145",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No. 162, Sector 40, Chandigarh - 160036"
+    },
+    {
+        "ATM_ID": "ATM_146",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No. 9, Sector 43, Chandigarh - 160047"
+    },
+    {
+        "ATM_ID": "ATM_147",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No.16 , Sector 49 A, Chandigarh - 160047"
+    },
+    {
+        "ATM_ID": "ATM_148",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No.29, Sector 44C, Chandigarh - 160047"
+    },
+    {
+        "ATM_ID": "ATM_149",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No-107, P E C University Of Technology, Sec 1, Chandigarh - 160012"
+    },
+    {
+        "ATM_ID": "ATM_15",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Shop No. 1318, Old Nac Manimajra, Chandigarh - 160101"
+    },
+    {
+        "ATM_ID": "ATM_150",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No-169,Sec 28-D,Market Near Pal Dhaba, Chandigarh - 160027"
+    },
+    {
+        "ATM_ID": "ATM_151",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No-190, Sector-34C, Chandigarh - 160033"
+    },
+    {
+        "ATM_ID": "ATM_152",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No-28-29, Sec-33 D, Chandigarh - 160033"
+    },
+    {
+        "ATM_ID": "ATM_153",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No-6, Sect-7, Chandigarh - 160028"
+    },
+    {
+        "ATM_ID": "ATM_154",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Chitkara Institute, Patiala Rd, Chandigarh - 160015"
+    },
+    {
+        "ATM_ID": "ATM_155",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Club Premises, Sec-1,Chandigarh - 160009"
+    },
+    {
+        "ATM_ID": "ATM_156",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Hpcl Petrol Pump,Sector- 52, Chandigarh - 160055"
+    },
+    {
+        "ATM_ID": "ATM_157",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Mdc Manimjra, Chandigarh - 160101"
+    },
+    {
+        "ATM_ID": "ATM_158",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Mobile Atm, Sector 17, Chandigarh - 160017"
+    },
+    {
+        "ATM_ID": "ATM_159",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Near Moti Ram Arya School, Sector 27 A, Chandigarh - 160019"
+    },
+    {
+        "ATM_ID": "ATM_16",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "2205, Manimajra, Piple Wala Town, Chandigarh - 160101"
+    },
+    {
+        "ATM_ID": "ATM_160",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Opp Tribune Hpcl Petrol Pump, Sector 31, Chandigarh - 160020"
+    },
+    {
+        "ATM_ID": "ATM_161",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Opp. Aroma Hotel,Sainik Rest House, Sec 21, Chandigarh - 160022"
+    },
+    {
+        "ATM_ID": "ATM_162",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Plot No 11, Industrial Area, Phase 2 , Chandigarh - 160002"
+    },
+    {
+        "ATM_ID": "ATM_163",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Pnb House Sector 17 B, Chandigarh - 160017"
+    },
+    {
+        "ATM_ID": "ATM_164",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Scf 1-2, Sector 22 D, Chandigarh - 160022"
+    },
+    {
+        "ATM_ID": "ATM_165",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Scf 31, Sector 23 C, Chandigarh - 160023"
+    },
+    {
+        "ATM_ID": "ATM_166",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Scf No 26-27-28, Sector 16 D,Chandigarh - 160015"
+    },
+    {
+        "ATM_ID": "ATM_167",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 1118-1119, Sector 22-B, Chandigarh - 160022"
+    },
+    {
+        "ATM_ID": "ATM_168",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 1-2-3, Sector 28 C, Chandigarh - 160027"
+    },
+    {
+        "ATM_ID": "ATM_169",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 125-126, Madhya Marg Sector 17 B, Chandigarh - 160017"
+    },
+    {
+        "ATM_ID": "ATM_17",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Police Head Quarters, Ut Sector - 9, Chandigarh - 160009"
+    },
+    {
+        "ATM_ID": "ATM_170",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 23-24, , Sec 19C, Chandigarh - 160019"
+    },
+    {
+        "ATM_ID": "ATM_171",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 237, Burail, Chandigarh - 160106"
+    },
+    {
+        "ATM_ID": "ATM_172",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 375-376, Sec-37D, Chandigarh - 160036"
+    },
+    {
+        "ATM_ID": "ATM_173",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 39/6 ,Sec-18,Chandigarh - 160020"
+    },
+    {
+        "ATM_ID": "ATM_174",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 49, Sector 20 C, Chandigarh - 160020"
+    },
+    {
+        "ATM_ID": "ATM_175",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 809, Nac Manimajra, Chandigarh - 160101"
+    },
+    {
+        "ATM_ID": "ATM_176",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco No. 44-45, Sector 9D, Chandigarh - 160009"
+    },
+    {
+        "ATM_ID": "ATM_177",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco-56, Madhya Marg, Sector-26D, Chandigarh - 160028"
+    },
+    {
+        "ATM_ID": "ATM_178",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sector 37, Chandigarh - 160036"
+    },
+    {
+        "ATM_ID": "ATM_179",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sector 48 A, Chandigarh - 160002"
+    },
+    {
+        "ATM_ID": "ATM_18",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Police Lines, Sector - 26, Chandigarh - 160026"
+    },
+    {
+        "ATM_ID": "ATM_180",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Shop No.70,Sector 8B,Chandigarh - 160008"
+    },
+    {
+        "ATM_ID": "ATM_181",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sector 55 , Chandigarh - 160055"
+    },
+    {
+        "ATM_ID": "ATM_182",
+        "ATM_NAME": "Punjab National Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Vpo Maloya, Chandigarh - 160039"
+    },
+    {
+        "ATM_ID": "ATM_183",
+        "ATM_NAME": "Syndicate Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sector 36A, , Punjab State Board Of Technical Education, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_184",
+        "ATM_NAME": "Syndicate Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 174-175,Sector -38, , Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_185",
+        "ATM_NAME": "Syndicate Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 66 - 67 Sector 17 B, Bank Square, , Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_186",
+        "ATM_NAME": "Syndicate Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No 13, Sector 19 C, Chandigarh - 160017"
+    },
+    {
+        "ATM_ID": "ATM_187",
+        "ATM_NAME": "Union Bank Of India",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Main Sec 17 B, Sec 8C,Sco 64-65, Chandigarh - 160017"
+    },
+    {
+        "ATM_ID": "ATM_188",
+        "ATM_NAME": "Union Bank Of India",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "S.C.O. 802, , Kalka Highway, Mani Majara, Chandigarh - 160101"
+    },
+    {
+        "ATM_ID": "ATM_189",
+        "ATM_NAME": "Union Bank Of India",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 149-152, Sector-17 C, ,Extension Counter Mandi Boar,S.C.O. 802, Chandigarh - 160101"
+    },
+    {
+        "ATM_ID": "ATM_19",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sector-40D, Sampark Centre,Chandigarh - 160003"
+    },
+    {
+        "ATM_ID": "ATM_190",
+        "ATM_NAME": "Union Bank Of India",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 6768, Sector 40, Chandigarh - 160101"
+    },
+    {
+        "ATM_ID": "ATM_191",
+        "ATM_NAME": "Union Bank Of India",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sector 35C Br., Sco 463/464, Sec. 35C, Chandigarh - 160036"
+    },
+    {
+        "ATM_ID": "ATM_192",
+        "ATM_NAME": "Union Bank Of India",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 58-91, Sector 8-C, Madhya Marg, Chandigarh - 160022"
+    },
+    {
+        "ATM_ID": "ATM_193",
+        "ATM_NAME": "Union Bank Of India",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No 29, Sector 20, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_194",
+        "ATM_NAME": "Union Bank Of India",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sector 35-Chandigarh Branch, Sco 463/464, Sector 35/C, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_195",
+        "ATM_NAME": "Union Bank Of India",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Scf-62, Sector-30C, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_196",
+        "ATM_NAME": "Union Bank Of India",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 63, Sector 32, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_197",
+        "ATM_NAME": "Union Bank Of India",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Show Room No. 33, Sector-7C, Madhya Marg, Chandigarh - 160007"
+    },
+    {
+        "ATM_ID": "ATM_198",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "null"
+    },
+    {
+        "ATM_ID": "ATM_199",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Basic Training Centre, Bhanu Camp, Indo Tiebtian Border Police Force, Panchkula"
+    },
+    {
+        "ATM_ID": "ATM_2",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No. 254 , Sector - 38 D, Chandigarh - 160038"
+    },
+    {
+        "ATM_ID": "ATM_20",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco, 134,135, 136, Sector 34A,Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_200",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Dss 264, Sector 20, Panchkula"
+    },
+    {
+        "ATM_ID": "ATM_201",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Sco 10, Sector 10, Panchkula"
+    },
+    {
+        "ATM_ID": "ATM_202",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "2Nd Cd, Sco 10, Sector 10, Panchkula"
+    },
+    {
+        "ATM_ID": "ATM_203",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Ground Floor And Basement, Sco 390, Sector 20, Panchkula"
+    },
+    {
+        "ATM_ID": "ATM_204",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Booth No.105, , Sector 12/A, Panchkula"
+    },
+    {
+        "ATM_ID": "ATM_205",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Booth No.110, Sector 15, Panchkula - 134113"
+    },
+    {
+        "ATM_ID": "ATM_206",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Shop No.76, Sector-4, Panchkula"
+    },
+    {
+        "ATM_ID": "ATM_207",
+        "ATM_NAME": "Bank Of India",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Sco 10, Sec -16, Panchkula - 134109"
+    },
+    {
+        "ATM_ID": "ATM_208",
+        "ATM_NAME": "Canara Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Sco 296, Sector 20, Panchkula"
+    },
+    {
+        "ATM_ID": "ATM_209",
+        "ATM_NAME": "Canara Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Sco 12, Phase-Ii, Sector 10, Panchkula - 134109"
+    },
+    {
+        "ATM_ID": "ATM_21",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No. 72, Sector -31,Chandigarh - 160031"
+    },
+    {
+        "ATM_ID": "ATM_210",
+        "ATM_NAME": "Canara Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Commodity Complex, Sector 16, Panchkula - 134109"
+    },
+    {
+        "ATM_ID": "ATM_211",
+        "ATM_NAME": "Central Bank Of India",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "null"
+    },
+    {
+        "ATM_ID": "ATM_212",
+        "ATM_NAME": "Federal Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Sco-63, Sector - 11, Panchkula"
+    },
+    {
+        "ATM_ID": "ATM_213",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Awwa Shooping Complex, , Chandimandir, Panchkula"
+    },
+    {
+        "ATM_ID": "ATM_214",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Gurudwara Nada Sahib, Sec 16, Panchkula"
+    },
+    {
+        "ATM_ID": "ATM_215",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Sco - 52, Sector - 11, Panchkula"
+    },
+    {
+        "ATM_ID": "ATM_216",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "null"
+    },
+    {
+        "ATM_ID": "ATM_217",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "null"
+    },
+    {
+        "ATM_ID": "ATM_218",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Sco No.282, Sec. - 20, Panchkula"
+    },
+    {
+        "ATM_ID": "ATM_219",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "null"
+    },
+    {
+        "ATM_ID": "ATM_22",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco No.1, Sector 16 D, Chandigarh - 160015"
+    },
+    {
+        "ATM_ID": "ATM_220",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "null"
+    },
+    {
+        "ATM_ID": "ATM_221",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "null"
+    },
+    {
+        "ATM_ID": "ATM_222",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Sco - 1, Sec - 16, Panchkula"
+    },
+    {
+        "ATM_ID": "ATM_223",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "null"
+    },
+    {
+        "ATM_ID": "ATM_224",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "null"
+    },
+    {
+        "ATM_ID": "ATM_225",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "null"
+    },
+    {
+        "ATM_ID": "ATM_226",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "null"
+    },
+    {
+        "ATM_ID": "ATM_227",
+        "ATM_NAME": "ICICI Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Nagaur Petrol Service, Near Manimajra Crossing, Singla Filling Station, Panchkula - 134109"
+    },
+    {
+        "ATM_ID": "ATM_228",
+        "ATM_NAME": "ICICI Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Showroom No. 6, Sector 11, Panchkula - 134109"
+    },
+    {
+        "ATM_ID": "ATM_229",
+        "ATM_NAME": "ICICI Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Icici Bank Atm, Booth #185, Sector 20, Panchkula - 134109"
+    },
+    {
+        "ATM_ID": "ATM_23",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Shop No. 42, Khuda Lohara, Main Market, Chandigarh - 160014"
+    },
+    {
+        "ATM_ID": "ATM_230",
+        "ATM_NAME": "ICICI Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Icici Bank Atm, Sector 6, Panchkula - 134109"
+    },
+    {
+        "ATM_ID": "ATM_231",
+        "ATM_NAME": "ICICI Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Plot No. B - 88, Sector - 7, Panchkula - 134109"
+    },
+    {
+        "ATM_ID": "ATM_232",
+        "ATM_NAME": "ICICI Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Sinchai Bhawan, Haryana Irrigation Department, Sector 5, Panchkula - 134109"
+    },
+    {
+        "ATM_ID": "ATM_233",
+        "ATM_NAME": "Indian Overseas Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "null"
+    },
+    {
+        "ATM_ID": "ATM_234",
+        "ATM_NAME": "Indian Overseas Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "null"
+    },
+    {
+        "ATM_ID": "ATM_235",
+        "ATM_NAME": "Indian Overseas Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Sco 61, Sector 9, Panchkula - 134109"
+    },
+    {
+        "ATM_ID": "ATM_236",
+        "ATM_NAME": "Indus Ind Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Sco-28, Sec-11, Panchkula"
+    },
+    {
+        "ATM_ID": "ATM_237",
+        "ATM_NAME": "Oriental Bank Of Commerce",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "null"
+    },
+    {
+        "ATM_ID": "ATM_238",
+        "ATM_NAME": "Oriental Bank Of Commerce",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Huda Complex, Sector-8, Panchkula - 134109"
+    },
+    {
+        "ATM_ID": "ATM_239",
+        "ATM_NAME": "Oriental Bank Of Commerce",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "S.No-30, Sector-11, Panchkula - 134109"
+    },
+    {
+        "ATM_ID": "ATM_24",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No.18, Sector 32 D,Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_240",
+        "ATM_NAME": "State Bank Of India",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Shop No.267, Market, Sector 20, Panchkula"
+    },
+    {
+        "ATM_ID": "ATM_241",
+        "ATM_NAME": "State Bank Of India",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Sector 08, Panchkula"
+    },
+    {
+        "ATM_ID": "ATM_242",
+        "ATM_NAME": "State Bank Of India",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Sector 10, Panchkula"
+    },
+    {
+        "ATM_ID": "ATM_243",
+        "ATM_NAME": "Syndicate Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "null"
+    },
+    {
+        "ATM_ID": "ATM_244",
+        "ATM_NAME": "Syndicate Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Mansa Devi Complex, Sco F 123, Sector 5, Panchkula"
+    },
+    {
+        "ATM_ID": "ATM_245",
+        "ATM_NAME": "Syndicate Bank",
+        "ATM_CITY": "Panchkula",
+        "ATM_ADDRESS": "Booth No 121, Sector Viii, Panchkula - 134109"
+    },
+    {
+        "ATM_ID": "ATM_246",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Mohali",
+        "ATM_ADDRESS": "Booth No-112, Ph-Ix, Mohali"
+    },
+    {
+        "ATM_ID": "ATM_247",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Mohali",
+        "ATM_ADDRESS": "Booth No-281, Ph-V, Mohali"
+    },
+    {
+        "ATM_ID": "ATM_248",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Mohali",
+        "ATM_ADDRESS": "Phase Xi, Sas Nagar, Mohali"
+    },
+    {
+        "ATM_ID": "ATM_249",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Mohali",
+        "ATM_ADDRESS": "Ph-Ii,S.C.O - 24, Mohali - 160054"
+    },
+    {
+        "ATM_ID": "ATM_25",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 20-21-22, Sector 34-A, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_250",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Mohali",
+        "ATM_ADDRESS": "Near Old Anaj Mandi, , Mohali- 452001"
+    },
+    {
+        "ATM_ID": "ATM_251",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Mohali",
+        "ATM_ADDRESS": "S C O 55-57 Phase Vii, Sas Nagar,Mohali- 160059"
+    },
+    {
+        "ATM_ID": "ATM_252",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Mohali",
+        "ATM_ADDRESS": "S.C.F. 69, Sector 60, Sas Nagar,Mohali - 160059"
+    },
+    {
+        "ATM_ID": "ATM_253",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Mohali",
+        "ATM_ADDRESS": "Scf 55Phase 3B2,Mohali - 160059"
+    },
+    {
+        "ATM_ID": "ATM_254",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Mohali",
+        "ATM_ADDRESS": "Scf-21Phase X, Mohali- 160059"
+    },
+    {
+        "ATM_ID": "ATM_255",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Mohali",
+        "ATM_ADDRESS": "Sco 19, Phase Vii, Mohali- 635126"
+    },
+    {
+        "ATM_ID": "ATM_256",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Mohali",
+        "ATM_ADDRESS": "Sco 20, Phase I, Mohali- 160059"
+    },
+    {
+        "ATM_ID": "ATM_257",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Mohali",
+        "ATM_ADDRESS": "Sector 45,Shop No. 137, Adjacent To Bhatia Super Market, Mohali- 160002"
+    },
+    {
+        "ATM_ID": "ATM_258",
+        "ATM_NAME": "Indian Bank",
+        "ATM_CITY": "Mohali",
+        "ATM_ADDRESS": "Scf-14,Phase Xi, Sas Nagar,Mohali- 160062"
+    },
+    {
+        "ATM_ID": "ATM_259",
+        "ATM_NAME": "Punjab And Sindh Bank",
+        "ATM_CITY": "Mohali",
+        "ATM_ADDRESS": "Phase-V, Scf 24-25-26 , Sas Nagar, Mohali"
+    },
+    {
+        "ATM_ID": "ATM_26",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 343-344, Sector 35-B, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_260",
+        "ATM_NAME": "Punjab And Sindh Bank",
+        "ATM_CITY": "Mohali",
+        "ATM_ADDRESS": "Phase Viii, Mohali"
+    },
+    {
+        "ATM_ID": "ATM_261",
+        "ATM_NAME": "State Bank Of Patiala",
+        "ATM_CITY": "Mohali",
+        "ATM_ADDRESS": "Booth No 90,Phase-10, Market Area, Mohali - 160062"
+    },
+    {
+        "ATM_ID": "ATM_262",
+        "ATM_NAME": "State Bank Of Patiala",
+        "ATM_CITY": "Mohali",
+        "ATM_ADDRESS": "Sco-63,Phase-7, Mohali - 160055"
+    },
+    {
+        "ATM_ID": "ATM_263",
+        "ATM_NAME": "State Bank Of Patiala",
+        "ATM_CITY": "Mohali",
+        "ATM_ADDRESS": "Phase-1, Niper Institution, Mohali - 160055"
+    },
+    {
+        "ATM_ID": "ATM_264",
+        "ATM_NAME": "State Bank Of Patiala",
+        "ATM_CITY": "Mohali",
+        "ATM_ADDRESS": "Sector-70, S.A.S. Nagar, Mohali- 160070"
+    },
+    {
+        "ATM_ID": "ATM_265",
+        "ATM_NAME": "State Bank Of Patiala",
+        "ATM_CITY": "Mohali",
+        "ATM_ADDRESS": "Sco No.34-35 Ind.Area Phase-7, Mohali- 160059"
+    },
+    {
+        "ATM_ID": "ATM_27",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No. 426, Sector 44 D,Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_28",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sector 43, Sampark Centre, Sub Divisional Office Electricity, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_29",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sector 44 D, Booth No. 426, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_3",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No. 310, Sector 37D, Chandigarh - 160036"
+    },
+    {
+        "ATM_ID": "ATM_30",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No.15,Sector 49-A, Sub Sector Market Shopping Complex,Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_31",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 168 &169 Sector -38 C & D, Ground Floor & Basement , Chandigarh - 160036"
+    },
+    {
+        "ATM_ID": "ATM_32",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No. 1001, Sector -38, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_33",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sector17, Jeevan Prakash Bldg,Chandigarh - 160017"
+    },
+    {
+        "ATM_ID": "ATM_34",
+        "ATM_NAME": "Bank Of Baroda",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sector 34-A, Parivar Kalyan Bhavan, Chandigarh - 160022"
+    },
+    {
+        "ATM_ID": "ATM_35",
+        "ATM_NAME": "Bank Of India",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "S.C.F - 9, Sector 20-C, Chandigarh - 160017"
+    },
+    {
+        "ATM_ID": "ATM_36",
+        "ATM_NAME": "Bank Of India",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Bank'S Square, Sectore - 17, P.B No.2, Chandigarh - 160017"
+    },
+    {
+        "ATM_ID": "ATM_37",
+        "ATM_NAME": "Bank Of India",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "null"
+    },
+    {
+        "ATM_ID": "ATM_38",
+        "ATM_NAME": "Bank Of India",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "S.C.F - 9, Sector 20-C, Chandigarh - 160020"
+    },
+    {
+        "ATM_ID": "ATM_39",
+        "ATM_NAME": "Bank Of India",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "S.C.O. 290-291, Sector 32-D, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_4",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Shop No. G-10 , Industial Area Phase- 1, Centra Mall, Chandigarh - 160001"
+    },
+    {
+        "ATM_ID": "ATM_40",
+        "ATM_NAME": "Bank Of Maharastra",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco - 121-122, Sector-45, Chandigarh - 160047"
+    },
+    {
+        "ATM_ID": "ATM_41",
+        "ATM_NAME": "Bank Of Maharastra",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "S.C.O.88/89, Sector 17 - C, Chandigarh - 160017"
+    },
+    {
+        "ATM_ID": "ATM_42",
+        "ATM_NAME": "Bank Of Maharastra",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 121-122,Sector-45, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_43",
+        "ATM_NAME": "Canara Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No. 302, Sector 37 D, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_44",
+        "ATM_NAME": "Canara Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No.48-I, Sector 20-C, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_45",
+        "ATM_NAME": "Canara Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No. 5, Sector 47 C, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_46",
+        "ATM_NAME": "Canara Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Plot No.1, Sector 34 A, Chandigarh - 160017"
+    },
+    {
+        "ATM_ID": "ATM_47",
+        "ATM_NAME": "Canara Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Railway Station, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_48",
+        "ATM_NAME": "Canara Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sector 22-B, Retail Outlet Of Hpcl (Petrol Pump), Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_49",
+        "ATM_NAME": "Canara Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 117,118,119 , Sector 17 C, Chandigarh - 160017"
+    },
+    {
+        "ATM_ID": "ATM_5",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Ground Floor And Basement, Sco-61, Sector-32,Chandigarh - 160032"
+    },
+    {
+        "ATM_ID": "ATM_50",
+        "ATM_NAME": "Canara Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 311-312, Sector 35 B, Chandigarh - 160036"
+    },
+    {
+        "ATM_ID": "ATM_51",
+        "ATM_NAME": "Canara Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 255-256 Sector 44 D, Chandigarh - 160047"
+    },
+    {
+        "ATM_ID": "ATM_52",
+        "ATM_NAME": "Canara Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 167-168, Sector 8C, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_53",
+        "ATM_NAME": "Canara Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 81, Sector 40C, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_54",
+        "ATM_NAME": "Canara Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 836, Manimajra, Chandigarh - 160022"
+    },
+    {
+        "ATM_ID": "ATM_55",
+        "ATM_NAME": "Canara Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Shop No.11, Shopping Complex, Punjab University Campus, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_56",
+        "ATM_NAME": "Central Bank Of India",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "S.C.O. No. 293 & 294,35-C, Defence Colony, Chandigarh - 160023"
+    },
+    {
+        "ATM_ID": "ATM_57",
+        "ATM_NAME": "Central Bank Of India",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "7/8, Sector 22-C, Chandigarh - 160022"
+    },
+    {
+        "ATM_ID": "ATM_58",
+        "ATM_NAME": "Central Bank Of India",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "S.C.O. 23, Sector 15-C,Chandigarh - 160015"
+    },
+    {
+        "ATM_ID": "ATM_59",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "3039,D-2 , Bela Chowk, Chandigarh - 140001"
+    },
+    {
+        "ATM_ID": "ATM_6",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Plot No 109, Dhanas, Chandigarh - 160014"
+    },
+    {
+        "ATM_ID": "ATM_60",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "347 S C O 147-148, Sector-9 , Madhya Marg , Chandigarh - 160009"
+    },
+    {
+        "ATM_ID": "ATM_61",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "784/2 & 784/15 , Manimajra, Jatawallan Mohalla, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_62",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No 11 Sector 18-C,Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_63",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No 7, Sec 33, Chandigarh - 160034"
+    },
+    {
+        "ATM_ID": "ATM_64",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "null"
+    },
+    {
+        "ATM_ID": "ATM_65",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "null"
+    },
+    {
+        "ATM_ID": "ATM_66",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "null"
+    },
+    {
+        "ATM_ID": "ATM_67",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "null"
+    },
+    {
+        "ATM_ID": "ATM_68",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No-39, Sec-28-C, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_69",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No-29, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_7",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "S.C.O. 41-42, Madhya Marg, Sector 8-C, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_70",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No-118, Sec-46-C, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_71",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No.7, Sector 49 -A, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_72",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No.3, Sector 19D, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_73",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No. 88, Sector 15D,Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_74",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Booth No-9, Sec-47/C, Chandigarh - 160046"
+    },
+    {
+        "ATM_ID": "ATM_75",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Near Shiva Property, Ambala Highway , Chandigarh - 140601"
+    },
+    {
+        "ATM_ID": "ATM_76",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Ground Floor Sco 147-148 Sector - 17 C, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_77",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sector-17,Estate Office, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_78",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 288, Sec 32 D, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_79",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 371/372,Sector 35B, Chandigarh - 160035"
+    },
+    {
+        "ATM_ID": "ATM_8",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Shop No. 131, Ramdarbar , Industrial Area Phase -2 , Chandigarh - 160031"
+    },
+    {
+        "ATM_ID": "ATM_80",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Phase-1, , House,28, Industrial Area, Chandigarh - 160002"
+    },
+    {
+        "ATM_ID": "ATM_81",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "S C O 52 - 53, Sector 9-D, Chandigarh - 160018"
+    },
+    {
+        "ATM_ID": "ATM_82",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "S C O 61-63 Sector 9 D , Madhya Marg, Chandigarh - 160017"
+    },
+    {
+        "ATM_ID": "ATM_83",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "S.C.O. 178, Sector 38-C&D, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_84",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 1070-71, Sector 22-B,Chandigarh - 160022"
+    },
+    {
+        "ATM_ID": "ATM_85",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 382Sector 37-D, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_86",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 13 , 14 & 15,Sector - 34 A,Chandigarh - 1600113"
+    },
+    {
+        "ATM_ID": "ATM_87",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 78-79, Madhya Marg, Sector 8-C, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_88",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco 850Nac, Manimajra,Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_89",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco-405-406, Sector-35C,Chandigarh - 160022"
+    },
+    {
+        "ATM_ID": "ATM_9",
+        "ATM_NAME": "Axis Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": ", 33 Kva Grid Sub Station, Industrial Area, Phase I, Chandigarh - 160022"
+    },
+    {
+        "ATM_ID": "ATM_90",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sco-87 Sector 46-D, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_91",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": ", Opp. Grain Market, Sh. Guru Granth Sahib Vidya, Kendra, Sec -28/A, Chandigarh - 160026"
+    },
+    {
+        "ATM_ID": "ATM_92",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Shop No. 22,Awa, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_93",
+        "ATM_NAME": "HDFC Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": ", Manimajra, Manimajra Housing Complex, Chandigarh"
+    },
+    {
+        "ATM_ID": "ATM_94",
+        "ATM_NAME": "ICICI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sector 17, Accountant General Office, Chandigarh - 160017"
+    },
+    {
+        "ATM_ID": "ATM_95",
+        "ATM_NAME": "ICICI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "12 Wing Air Force, Air Force Station,Chandigarh - 160003"
+    },
+    {
+        "ATM_ID": "ATM_96",
+        "ATM_NAME": "ICICI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "2928 E/24, Bibiwala Chowk, Opposite Clock Tower, Chandigarh - 160017"
+    },
+    {
+        "ATM_ID": "ATM_97",
+        "ATM_NAME": "ICICI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "City Market, Chandigarh - 160002"
+    },
+    {
+        "ATM_ID": "ATM_98",
+        "ATM_NAME": "ICICI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Sector 1, Civil Secreterial Haryana Government, Chandigarh - 160001"
+    },
+    {
+        "ATM_ID": "ATM_99",
+        "ATM_NAME": "ICICI Bank",
+        "ATM_CITY": "Chandigarh",
+        "ATM_ADDRESS": "Dlf It Park, Chandigarh - 160017"
+    }
+]

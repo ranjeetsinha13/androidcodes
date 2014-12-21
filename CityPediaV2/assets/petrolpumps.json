@@ -1,0 +1,587 @@
+[
+    {
+        "ID": "1",
+        "PETROL_PUMP_NAME": "Mann Filling Station",
+        "ADDRESS": "Sec-49b, National Highway, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2632225",
+        "LOCALITY": "SECTOR-49, CHANDIGARH",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "10",
+        "PETROL_PUMP_NAME": "HPCL",
+        "ADDRESS": "Plot No 16a, Tel Bhawan, Sec-19b, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2548439",
+        "LOCALITY": "SECTOR-19, CHANDIGARH",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "11",
+        "PETROL_PUMP_NAME": "Modern Auto Engineers",
+        "ADDRESS": "Sec-15b, Sector-15, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2781851",
+        "LOCALITY": "Sector-15, Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "12",
+        "PETROL_PUMP_NAME": "Vishal Service Station",
+        "ADDRESS": "31-B, Opp Tribune, Sector-31, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2601013",
+        "LOCALITY": "Sector-31, Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "13",
+        "PETROL_PUMP_NAME": "Karan Filling Station",
+        "ADDRESS": "Sector-42 C, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2665533",
+        "LOCALITY": "Sector-42 , Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "14",
+        "PETROL_PUMP_NAME": "IBP",
+        "ADDRESS": "Plot 16a, Tel Bhawan, Sec-19b, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2775544",
+        "LOCALITY": "Sec-19, Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "15",
+        "PETROL_PUMP_NAME": "Oberoi Motors",
+        "ADDRESS": "Hpc, Sector-10, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2742438",
+        "LOCALITY": "Sector-10, Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "16",
+        "PETROL_PUMP_NAME": "IBP Auto Service",
+        "ADDRESS": "null",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "null",
+        "LOCALITY": "null",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "17",
+        "PETROL_PUMP_NAME": "Kapoor Services Station",
+        "ADDRESS": "Hpc, Sector-20 C, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2703378",
+        "LOCALITY": "Sector-20 C, Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "18",
+        "PETROL_PUMP_NAME": "Pathania Service Station",
+        "ADDRESS": "Near furniture market, Sector-34 A, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2645013",
+        "LOCALITY": "Sector-34 A, Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "19",
+        "PETROL_PUMP_NAME": "Auto Service Station",
+        "ADDRESS": "Sec-4, Chandigarh Gpo, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2540064",
+        "LOCALITY": "Sec-4, Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "2",
+        "PETROL_PUMP_NAME": "M P Motor",
+        "ADDRESS": "null",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2700386",
+        "LOCALITY": "SECTOR-22, CHANDIGARH",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "20",
+        "PETROL_PUMP_NAME": "M/S. City Service Centre Petrol Pump",
+        "ADDRESS": "Sec 37d Chandigarh,",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2692037",
+        "LOCALITY": "Sec 37, Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "21",
+        "PETROL_PUMP_NAME": "City Service Centre",
+        "ADDRESS": "Sec-37 A, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2692162",
+        "LOCALITY": "Sec-37, Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "22",
+        "PETROL_PUMP_NAME": "Singla Filling Station",
+        "ADDRESS": "Kalka Rd, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "(0172) 2557806",
+        "LOCALITY": "Panchkula",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "23",
+        "PETROL_PUMP_NAME": "BP-Panchkula(Ind Area)",
+        "ADDRESS": "Ind Area-2, Opposite 15 Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "(0172) 2592230",
+        "LOCALITY": "Ind Area-2, Panchkula",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "24",
+        "PETROL_PUMP_NAME": "Amrohi Filling Station",
+        "ADDRESS": "Sec-4, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "null",
+        "LOCALITY": "Sec-4, Panchkula",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "25",
+        "PETROL_PUMP_NAME": "Lbp Petrol Pump",
+        "ADDRESS": "Sector-42 C, CHANDIGARH",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2646617",
+        "LOCALITY": "Sector-42 , CHANDIGARH",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "26",
+        "PETROL_PUMP_NAME": "Sukhana Automobile Petrol Pump",
+        "ADDRESS": "Sec-28c, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "null",
+        "LOCALITY": "Sec-28, Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "27",
+        "PETROL_PUMP_NAME": "K T Service Station",
+        "ADDRESS": "Sector-17, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2728898",
+        "LOCALITY": "Sector-17, Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "28",
+        "PETROL_PUMP_NAME": "Braham Sarup & Sons",
+        "ADDRESS": "28, Sector-28 D, CHANDIGARH",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2651542",
+        "LOCALITY": "Sector-28 D, CHANDIGARH",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "29",
+        "PETROL_PUMP_NAME": "Sangam Petrol Services",
+        "ADDRESS": "10-C, Sec-46, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2608486",
+        "LOCALITY": "SECTOR -46, Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "3",
+        "PETROL_PUMP_NAME": "Allied Service Station",
+        "ADDRESS": "Sector-34 Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2616728",
+        "LOCALITY": "SECTOR-34, CHANDIGARH",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "30",
+        "PETROL_PUMP_NAME": "Amar Service Station",
+        "ADDRESS": "Sector-39, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2693585",
+        "LOCALITY": "Sector-39, Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "31",
+        "PETROL_PUMP_NAME": "Nanak Filling Station",
+        "ADDRESS": "Sec-103, Landran Banur Rd, Mohali",
+        "CITY": "Mohali",
+        "CONTACT_NUMBER": "9501148888",
+        "LOCALITY": "Sec-103, Mohali",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "32",
+        "PETROL_PUMP_NAME": "Rockrose Auto Centre",
+        "ADDRESS": "Dakshin Mg,Sec 20c, Tribune Road, Sector-20, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2708378",
+        "LOCALITY": "Sector-20, Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "33",
+        "PETROL_PUMP_NAME": "Sud Traders (HPC Petrol Pump)",
+        "ADDRESS": "Near Aroma Hotel, Sector-22, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 4657769",
+        "LOCALITY": "Sector-22, Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "34",
+        "PETROL_PUMP_NAME": "Post Offices & Pcos Retail Outlet Petrol",
+        "ADDRESS": "Petrol Pump, Sec 33b Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2624929",
+        "LOCALITY": "Sector- 33,Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "35",
+        "PETROL_PUMP_NAME": "Gudial Singh & Sons",
+        "ADDRESS": "Sec-22a,Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 5075847",
+        "LOCALITY": "Sec-22,Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "36",
+        "PETROL_PUMP_NAME": "Kapoor Service",
+        "ADDRESS": "Opp Passport Office, Sector-21D, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2728972",
+        "LOCALITY": "Sector-21D, Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "37",
+        "PETROL_PUMP_NAME": "Sham Services Stations",
+        "ADDRESS": "Bpc,Sector-35B, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2607847",
+        "LOCALITY": "Sector-35B, Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "38",
+        "PETROL_PUMP_NAME": "IBP Co Ltd",
+        "ADDRESS": "313-14, Sec-35b,Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2604907",
+        "LOCALITY": "Sector-35,Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "39",
+        "PETROL_PUMP_NAME": "Kaushul Service Station",
+        "ADDRESS": "Bpc, Ram Darbar, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2609612",
+        "LOCALITY": "Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "4",
+        "PETROL_PUMP_NAME": "Sidhu Service Station",
+        "ADDRESS": "10c, Indian Oil Petrol Pump, Sector-7 C, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "null",
+        "LOCALITY": "SECTOR-7, CHANDIGARH",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "40",
+        "PETROL_PUMP_NAME": "Happy Service Centre",
+        "ADDRESS": "Kalka Rd, Sector-17B, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2561650",
+        "LOCALITY": "Sector-17, Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "41",
+        "PETROL_PUMP_NAME": "Himachal Petro Chemical Ind",
+        "ADDRESS": "377, PH-2, Chandigarh Gpo, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2652894",
+        "LOCALITY": "Phase-2, Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "42",
+        "PETROL_PUMP_NAME": "Malhotra & Co",
+        "ADDRESS": "null",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2775481",
+        "LOCALITY": "Sector-19, Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "43",
+        "PETROL_PUMP_NAME": "SR Regional Manager Hindustan Petrol",
+        "ADDRESS": "Telbhawan Madhya Marg, Sec 19b Chdchandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "null",
+        "LOCALITY": "Sector- 19, chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "44",
+        "PETROL_PUMP_NAME": "Bulk Lube Depot Indian Oil Corp",
+        "ADDRESS": "208, Sector-29 D, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "null",
+        "LOCALITY": "Sector-29, Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "45",
+        "PETROL_PUMP_NAME": "Shiva Filling Station",
+        "ADDRESS": "Vikas Mg,Nh, Sector-44 C, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2646303",
+        "LOCALITY": "Sector-44 , Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "46",
+        "PETROL_PUMP_NAME": "M/S. Citco Petrol Station",
+        "ADDRESS": "Citco Petrol Station, Sector 52 Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "null",
+        "LOCALITY": "Sector- 52 Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "47",
+        "PETROL_PUMP_NAME": "Umrao Polymers",
+        "ADDRESS": "186, PH-2, Indl Area Sector-28, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "9417246297",
+        "LOCALITY": "Sector-28, Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "48",
+        "PETROL_PUMP_NAME": "Amar services station",
+        "ADDRESS": "National Highway-21, Sector-39D, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "9815993585",
+        "LOCALITY": "Sector-39D, Chandigarh",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "49",
+        "PETROL_PUMP_NAME": "Manimajra Services Station",
+        "ADDRESS": "Nac, Mani Mazra, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2734483",
+        "LOCALITY": "Manimajra",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "5",
+        "PETROL_PUMP_NAME": "Mani Majra Service Station",
+        "ADDRESS": "N A C, Manimajra, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2734481",
+        "LOCALITY": "MANIMAJRA",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "50",
+        "PETROL_PUMP_NAME": "Shri Guru Sudarshan",
+        "ADDRESS": "PH-1,Indl Area,Sec-19, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "(0172) 2587732",
+        "LOCALITY": "Sec-19, Panchkula",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "51",
+        "PETROL_PUMP_NAME": "Guru Nanak & Automobiles",
+        "ADDRESS": "null",
+        "CITY": "Mohali",
+        "CONTACT_NUMBER": "null",
+        "LOCALITY": "Mohali",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "52",
+        "PETROL_PUMP_NAME": "Jai Kissan Filling Station",
+        "ADDRESS": "Chandigarh Road, Kharar, Mohali",
+        "CITY": "Mohali",
+        "CONTACT_NUMBER": "(0160) 5001349",
+        "LOCALITY": "Mohali",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "53",
+        "PETROL_PUMP_NAME": "Happy Service station",
+        "ADDRESS": "Sector 1, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "9417077780",
+        "LOCALITY": "Sector 1, Panchkula",
+        "PINCODE": "NA"
+    },
+    {
+        "ID": "54",
+        "PETROL_PUMP_NAME": "Petrol Pump",
+        "ADDRESS": "Sector 14, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "9814011277",
+        "LOCALITY": "Sector 14, Panchkula",
+        "PINCODE": "NA"
+    },
+    {
+        "ID": "55",
+        "PETROL_PUMP_NAME": "Petrol Pump",
+        "ADDRESS": "sector 5, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "9646186401",
+        "LOCALITY": "sector 5, Panchkula",
+        "PINCODE": "NA"
+    },
+    {
+        "ID": "56",
+        "PETROL_PUMP_NAME": "Lal Auto",
+        "ADDRESS": "Sector 5, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "9416024042",
+        "LOCALITY": "Sector 5, Panchkula",
+        "PINCODE": "NA"
+    },
+    {
+        "ID": "57",
+        "PETROL_PUMP_NAME": "Savan Ruhani Filling Station",
+        "ADDRESS": "Sector 3, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "0172-6575992",
+        "LOCALITY": "Sector 3, Panchkula",
+        "PINCODE": "NA"
+    },
+    {
+        "ID": "58",
+        "PETROL_PUMP_NAME": "Mehra Motors",
+        "ADDRESS": "Sector 16, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "9888000096",
+        "LOCALITY": "Sector 16, Panchkula",
+        "PINCODE": "NA"
+    },
+    {
+        "ID": "59",
+        "PETROL_PUMP_NAME": "Acchru Mal Kanwar Chand",
+        "ADDRESS": "Sector 8, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "9417259961",
+        "LOCALITY": "Sector 8, Panchkula",
+        "PINCODE": "NA"
+    },
+    {
+        "ID": "6",
+        "PETROL_PUMP_NAME": "Chawla Filling Station",
+        "ADDRESS": "PH-7, Mohali",
+        "CITY": "Mohali",
+        "CONTACT_NUMBER": "(0172) 2274199",
+        "LOCALITY": "PAHSE-7, MOHALI",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "60",
+        "PETROL_PUMP_NAME": "Petrol Pump",
+        "ADDRESS": "Sector 2, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "9466135445",
+        "LOCALITY": "Sector 2, Panchkula",
+        "PINCODE": "NA"
+    },
+    {
+        "ID": "61",
+        "PETROL_PUMP_NAME": "Shahid Veer shyam Filling Station",
+        "ADDRESS": "Sector 20, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "9872698483",
+        "LOCALITY": "Sector 20, Panchkula",
+        "PINCODE": "NA"
+    },
+    {
+        "ID": "62",
+        "PETROL_PUMP_NAME": "Petro Connect",
+        "ADDRESS": "Sector 3, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "9915599457",
+        "LOCALITY": "Sector 3, Panchkula",
+        "PINCODE": "NA"
+    },
+    {
+        "ID": "63",
+        "PETROL_PUMP_NAME": "Sainik Filling Station",
+        "ADDRESS": "Sector 27, Panchkula",
+        "CITY": "Panchkula",
+        "CONTACT_NUMBER": "9217517392",
+        "LOCALITY": "Sector 27, Panchkula",
+        "PINCODE": "NA"
+    },
+    {
+        "ID": "64",
+        "PETROL_PUMP_NAME": "Parmar Petrol Pump",
+        "ADDRESS": "Near AC national School, Ambala- Delhi Highway",
+        "CITY": "Zirakpur",
+        "CONTACT_NUMBER": "NA",
+        "LOCALITY": "Zirakpur",
+        "PINCODE": "NA"
+    },
+    {
+        "ID": "65",
+        "PETROL_PUMP_NAME": "Petrol Pump",
+        "ADDRESS": "Near Zirakpur bus stand, Ambala- Delhi Highway",
+        "CITY": "Zirakpur",
+        "CONTACT_NUMBER": "NA",
+        "LOCALITY": "Zirakpur",
+        "PINCODE": "NA"
+    },
+    {
+        "ID": "7",
+        "PETROL_PUMP_NAME": "National Service Centre",
+        "ADDRESS": "null",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2703576",
+        "LOCALITY": "SECTOR-17, CHANDIGARH",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "8",
+        "PETROL_PUMP_NAME": "Sangam Filling Station",
+        "ADDRESS": "Sector-46 C, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "(0172) 2607797",
+        "LOCALITY": "SECTOR-46, CHANDIGARH",
+        "PINCODE": "null"
+    },
+    {
+        "ID": "9",
+        "PETROL_PUMP_NAME": "Sukhna Autos",
+        "ADDRESS": "Sector-28 D, Chandigarh",
+        "CITY": "Chandigarh",
+        "CONTACT_NUMBER": "null",
+        "LOCALITY": "SECTOR-28, CHANDIGARH",
+        "PINCODE": "null"
+    }
+]

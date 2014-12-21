@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CityPedia</string>
+    <string name="action_settings">Settings</string>
+    <string name="foreground_service_started">AppLoggingService stopped</string>
+    <string name="loading_data">Loading data...</string>
+    <string name="search">Search</string>
+    <string name="address">ADDRESS </string>
+    <string name="services">SERVICES </string>
+    <string name="avgcostpp">COST</string>
+    <string name="cuisines">CUISINES </string>
+    <string name="timings">TIMINGS </string>
+    <string name="payment_type"> PAYMENT TYPE </string>
+    <string name="call">CALL</string>
+    <string name="na">Info not available</string>
+    <string name="famousfor">Famous for</string>
+
+    <string-array name="categories_list">
+        <item name="restaurants">Restaurants</item>
+        <item name="places">Places to visit</item>
+        <item name="gyms">gym &amp; spa</item>
+        <item name="atms">Atms</item>
+        <item name="petrolpumps">Petrol Pumps</item>
+        <item name="news">News</item>
+        <item name="cabs">Cabs</item>
+    </string-array>
+
+</resources>

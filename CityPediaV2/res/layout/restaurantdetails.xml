@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="0dp"
+        android:background="@android:color/white"
+        android:orientation="vertical" >
+
+        <com.app.citypediav2.CustomText
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:maxLines="2"
+            android:padding="5dp"
+            android:textColor="@android:color/background_dark"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:orientation="horizontal" >
+
+            <com.app.citypediav2.CustomText
+                android:id="@+id/address"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_weight=".35"
+                android:gravity="left"
+                android:maxLines="4"
+                android:text="@string/address"
+                android:textColor="@android:color/background_dark"
+                android:textSize="14sp"
+                android:textStyle="normal" />
+
+            <com.app.citypediav2.CustomText
+                android:id="@+id/address_text"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_weight=".65"
+                android:gravity="left"
+                android:maxLines="4"
+                android:textColor="@android:color/background_dark"
+                android:textSize="14sp"
+                android:textStyle="normal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/l4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:orientation="horizontal"
+            android:visibility="invisible" >
+
+            <com.app.citypediav2.CustomText
+                android:id="@+id/cuisines"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_weight=".35"
+                android:gravity="left"
+                android:maxLines="4"
+                android:text="@string/cuisines"
+                android:textColor="@android:color/background_dark"
+                android:textSize="14sp"
+                android:textStyle="normal" />
+
+            <com.app.citypediav2.CustomText
+                android:id="@+id/cuisines_text"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_weight=".65"
+                android:gravity="left"
+                android:maxLines="4"
+                android:textColor="@android:color/background_dark"
+                android:textSize="14sp"
+                android:textStyle="normal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/l0"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:orientation="horizontal"
+            android:visibility="invisible" >
+
+            <com.app.citypediav2.CustomText
+                android:id="@+id/services"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_weight=".35"
+                android:gravity="left"
+                android:maxLines="4"
+                android:text="@string/services"
+                android:textColor="@android:color/background_dark"
+                android:textSize="14sp"
+                android:textStyle="normal" />
+
+            <com.app.citypediav2.CustomText
+                android:id="@+id/services_text"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_weight=".65"
+                android:gravity="left"
+                android:maxLines="4"
+                android:textColor="@android:color/background_dark"
+                android:textSize="14sp"
+                android:textStyle="normal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/l1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:orientation="horizontal"
+            android:visibility="invisible" >
+
+            <com.app.citypediav2.CustomText
+                android:id="@+id/cpp"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_weight=".35"
+                android:gravity="left"
+                android:maxLines="4"
+                android:text="@string/avgcostpp"
+                android:textColor="@android:color/background_dark"
+                android:textSize="14sp"
+                android:textStyle="normal" />
+
+            <com.app.citypediav2.CustomText
+                android:id="@+id/cpp_text"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_weight=".65"
+                android:gravity="left"
+                android:maxLines="4"
+                android:textColor="@android:color/background_dark"
+                android:textSize="14sp"
+                android:textStyle="normal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/l2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:orientation="horizontal"
+            android:visibility="invisible" >
+
+            <com.app.citypediav2.CustomText
+                android:id="@+id/timings"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_weight=".35"
+                android:gravity="left"
+                android:maxLines="4"
+                android:text="@string/timings"
+                android:textColor="@android:color/background_dark"
+                android:textSize="14sp"
+                android:textStyle="normal" />
+
+            <com.app.citypediav2.CustomText
+                android:id="@+id/timings_text"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_weight=".65"
+                android:gravity="left"
+                android:maxLines="4"
+                android:textColor="@android:color/background_dark"
+                android:textSize="14sp"
+                android:textStyle="normal" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/l3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:orientation="horizontal"
+            android:visibility="invisible" >
+
+            <com.app.citypediav2.CustomText
+                android:id="@+id/payments"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_weight=".40"
+                android:gravity="left"
+                android:maxLines="4"
+                android:text="@string/payment_type"
+                android:textColor="@android:color/background_dark"
+                android:textSize="14sp"
+                android:textStyle="normal" />
+
+            <com.app.citypediav2.CustomText
+                android:id="@+id/payments_text"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:layout_weight=".65"
+                android:gravity="left"
+                android:maxLines="4"
+                android:textColor="@android:color/background_dark"
+                android:textSize="14sp"
+                android:textStyle="normal" />
+        </LinearLayout>
+
+        <com.app.citypediav2.CustomButton
+            android:id="@+id/call"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:layout_marginTop="10dp"
+            android:background="@color/green"
+            android:paddingBottom="5dp"
+            android:paddingLeft="25dp"
+            android:paddingRight="25dp"
+            android:paddingTop="5dp"
+            android:text="@string/call"
+            android:textColor="@android:color/background_light" />
+    </LinearLayout>
+
+</ScrollView>

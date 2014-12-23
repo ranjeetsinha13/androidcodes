@@ -14,6 +14,8 @@ import java.io.IOException;
  *
  * @author ranjeet.sinha
  */
+ 
+ ////http://stackoverflow.com/questions/6854127/filter-logcat-to-get-only-the-messages-from-my-application-in-android
 public class LogCollectorService extends Service {
 
     private LogDumper mLogDumper;
